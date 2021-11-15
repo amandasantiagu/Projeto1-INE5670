@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 
-function Parks() {
+function Reserve() {
   return (
     <>
      <Link to={'/reserves'}>
@@ -11,4 +11,4 @@ function Parks() {
   );
 }
 
-export default Parks;
+export default Reserve;
