@@ -1,13 +1,13 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
+import Cards from '../../Components/CardsImages/CardImages';
+import { HomeStyle } from '../Home/HomeStyles';
 
 function Reserve() {
   return (
-    <>
-     <Link to={'/reserves'}>
-        <h1>Escolha seu park de Santa Catarina!</h1>
-    </Link>
-    </>
+    <HomeStyle>
+       <h1> Reservas Naturais no Estado de Santa Catarina</h1>
+       <Cards />
+    </HomeStyle>
   );
 }
 

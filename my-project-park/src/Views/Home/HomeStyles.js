@@ -5,8 +5,14 @@ export const HomeStyle = styled.main`
     height: auto;
     min-height: 100vh;
     max-width: 100vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 `
 export const Title = styled.title`
    font-size: 1rem;
-   
+`
+export const StyledButton = styled.button`
+  width: 100%
 `
