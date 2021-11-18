@@ -7,7 +7,7 @@ export const HomeStyle = styled.main`
     max-width: 100vw;
     text-align: center;
     display: flex;
-    justify-content: center;
+
     flex-direction: column;
 `
 export const Title = styled.title`

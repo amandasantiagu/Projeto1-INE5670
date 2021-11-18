@@ -1,11 +1,13 @@
 import styled from 'styled-components';
 
 export const ContainerMovies = styled.div`
-    margin-top: 2em;
-    margin-left: 2.3em;
     display: grid;
     align-items: center;
     grid-template-columns: repeat( 3, minmax(180px, 1fr) );
+    @media (max-width:768px){ 
+      display: flex;
+      flex-direction: column;        
+    }
 `;
 
 export const Card = styled.article`
@@ -19,18 +21,18 @@ export const Card = styled.article`
     }
 
   img{
-    width:22rem;
-    height: 15rem;
+    width:18rem;
+    height: 12rem;
   }
  
   &:hover{
-      transform: scale(1.02);
+      transform: scale(1.01);
       cursor: pointer;
       filter: blur(0);
   }
  
     @media (max-width:768px){ 
         width: 80%;
-
+        
     }
 `;
