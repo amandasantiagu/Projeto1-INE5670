@@ -1,8 +1,8 @@
 [{
     "name": "Parque Municipal do Córrego Grande",
     "address": "R. João Pio Duarte Silva, 535 - Córrego Grande, Florianópolis - SC, 88037-000",
-    "phone-number": "(48) 3269-9551",
-    "opening-hours": "06:30–18:00",
+    "phoneNumber": "(48) 3269-9551",
+    "openingHours": "06:30–18:00",
     "website": "https://www.pmf.sc.gov.br/entidades/educambien/index.php?cms=visitacao+ao+parque+ecologico+do+corrego+grande&menu=0",
     "price": "gratuito",
     "imgs": [
@@ -17,8 +17,8 @@
   {
     "name": "Parque de Coqueiros",
     "address": "Av. Eng. Max de Souza, s/n - Coqueiros, Florianópolis - SC, 88080-010",
-    "phone-number": "(48) 3240-2029",
-    "opening-hours": "24horas",
+    "phoneNumber": "(48) 3240-2029",
+    "openingHours": "24horas",
     "website": "http://www.pmf.sc.gov.br/entidades/continente/index.php?cms=parque+de+coqueiros",
     "price": "gratuito",
     "imgs": [
@@ -33,8 +33,8 @@
   {
     "name": "Parque Ecológico Municipal",
     "address": "R. Fernandes Dias, 71 - Centro, São Francisco do Sul - SC, 89240-000",
-    "phone-number": "(47) 3444-6682",
-    "opening-hours": "08:00–17:00",
+    "phoneNumber": "(47) 3444-6682",
+    "openingHours": "08:00–17:00",
     "website": "Nao possui",
     "price": "gratuito",
     "imgs": [
@@ -49,8 +49,8 @@
   {
     "name": "Reserva Ambiental Parque das Capivaras",
     "address": "Av. Nereu Ramos, s/n defronte, R. 305 - Meia Praia, Itapema - SC, 88220-000",
-    "phone-number": "(47) 99170-1305",
-    "opening-hours": "08:00–18:00",
+    "phoneNumber": "(47) 99170-1305",
+    "openingHours": "08:00–18:00",
     "website": "https://parque-das-capivaras-em-meia-praia-itapema.negocio.site/?utm_source=gmb&utm_medium=referral",
     "price": "gratuito",
     "imgs": [
@@ -65,8 +65,8 @@
   {
     "name": "Parque Nacional de São Joaquim",
     "address": "Av. Pedro Bernardo Warmling, 1542 - Esquina, Urubici - SC, 88650-000",
-    "phone-number": "(49) 3278-4994",
-    "opening-hours": "08:00–12:00, 14:00–18:00",
+    "phoneNumber": "(49) 3278-4994",
+    "openingHours": "08:00–12:00, 14:00–18:00",
     "website": "https://www.icmbio.gov.br/parnasaojoaquim/guia-do-visitante.html",
     "price": "gratuito",
     "imgs": [

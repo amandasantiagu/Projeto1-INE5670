@@ -6,6 +6,7 @@ function Cards() {
 
     var attractions = require('../../DataBase/attractions.json'); //(with path)
 
+
   return (
     <>
         <ContainerMovies>
@@ -13,7 +14,7 @@ function Cards() {
                 return(
                 <>
                     <Card>
-                    <Link to={{ pathname: '/reservesInfo',  state: { attraction}}}>
+                    <Link to='/reservesInfo' state={attraction} >
                         <img src={attraction.imgs[0].url} alt="Logo"/>
                     </Link>
                         <p> {attraction.name}</p>
@@ -22,7 +23,6 @@ function Cards() {
                 </>
                 ) 
             })}
-           
         </ContainerMovies>
     </>
   );
