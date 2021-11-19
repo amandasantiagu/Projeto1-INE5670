@@ -1,0 +1,82 @@
+[{
+    "name": "Parque Municipal do Córrego Grande",
+    "address": "R. João Pio Duarte Silva, 535 - Córrego Grande, Florianópolis - SC, 88037-000",
+    "phone-number": "(48) 3269-9551",
+    "opening-hours": "06:30–18:00",
+    "website": "https://www.pmf.sc.gov.br/entidades/educambien/index.php?cms=visitacao+ao+parque+ecologico+do+corrego+grande&menu=0",
+    "price": "gratuito",
+    "imgs": [
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lago_do_Horto_Florestal_do_C%C3%B3rrego_Grande.jpg"
+        },
+        {
+            "url": "https://files.nsctotal.com.br/s3fs-public/styles/teaser_image_style/public/graphql-upload-files/23478862.jpg?reN3Mjv8jFzHF.nBc4bK5iO3GVODo8T4&itok=ArvA07T9"
+        }
+    ]
+  },
+  {
+    "name": "Parque de Coqueiros",
+    "address": "Av. Eng. Max de Souza, s/n - Coqueiros, Florianópolis - SC, 88080-010",
+    "phone-number": "(48) 3240-2029",
+    "opening-hours": "24horas",
+    "website": "http://www.pmf.sc.gov.br/entidades/continente/index.php?cms=parque+de+coqueiros",
+    "price": "gratuito",
+    "imgs": [
+        {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/92/85/3b/parque-com-um-lindo-paisagismo.jpg"
+        },
+        {
+            "url": "https://www.pmf.sc.gov.br/arquivos/imagens/10_12_2009_17_00_1a2afcdbfe993bb6ccf7d00607c92588.jpg"
+        }
+    ]
+  },
+  {
+    "name": "Parque Ecológico Municipal",
+    "address": "R. Fernandes Dias, 71 - Centro, São Francisco do Sul - SC, 89240-000",
+    "phone-number": "(47) 3444-6682",
+    "opening-hours": "08:00–17:00",
+    "website": "Nao possui",
+    "price": "gratuito",
+    "imgs": [
+        {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/70/45/b8/parque-ecologico-municipal.jpg"
+        },
+        {
+            "url": "https://www.saofranciscodosul.sc.gov.br/img/news/photo/392.jpg"
+        }
+    ]
+  },
+  {
+    "name": "Reserva Ambiental Parque das Capivaras",
+    "address": "Av. Nereu Ramos, s/n defronte, R. 305 - Meia Praia, Itapema - SC, 88220-000",
+    "phone-number": "(47) 99170-1305",
+    "opening-hours": "08:00–18:00",
+    "website": "https://parque-das-capivaras-em-meia-praia-itapema.negocio.site/?utm_source=gmb&utm_medium=referral",
+    "price": "gratuito",
+    "imgs": [
+        {
+            "url": "https://www.itapema.sc.gov.br/wp-content/uploads/2018/01/26731646_1558953417474281_7023227039973612657_n-1.jpg"
+        },
+        {
+            "url": "https://i1.wp.com/www.clickcamboriu.com.br/wp-content/uploads/2012/10/capivaras2.jpg"
+        }
+    ]
+  },
+  {
+    "name": "Parque Nacional de São Joaquim",
+    "address": "Av. Pedro Bernardo Warmling, 1542 - Esquina, Urubici - SC, 88650-000",
+    "phone-number": "(49) 3278-4994",
+    "opening-hours": "08:00–12:00, 14:00–18:00",
+    "website": "https://www.icmbio.gov.br/parnasaojoaquim/guia-do-visitante.html",
+    "price": "gratuito",
+    "imgs": [
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Urubici_pedra_furada.jpg"
+        },
+        {
+            "url": "https://s2.glbimg.com/WtrCtERHJviLrK6X0ukPnnUsoA4=/0x0:1600x1200/984x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2012/07/12/morro_da_igreja.jpg"
+        }
+    ]
+  }
+]
+  

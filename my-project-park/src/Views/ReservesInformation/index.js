@@ -2,7 +2,11 @@ import React from 'react'
 import { HomeStyle } from '../Home/HomeStyles';
 import image1 from '../../assets/images/image1.png'
 
-function ReserveInformation() {
+const ReserveInformation = ({props}) => {
+
+  // var attractions = require('../../DataBase/attractions.json');
+  // var attraction = attractions[0]
+
   return (
     <HomeStyle>
        <h1> Reserva NOME</h1>
