@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { ButtonStyle, HomeStyle } from './HomeStyles';
 import image5 from '../../assets/images/image5.jpg'
 import image6 from '../../assets/images/image6.jpg'
+import { SiYourtraveldottv } from 'react-icons/si'
 
 function Home() {
 
@@ -16,10 +17,14 @@ function Home() {
   
   return (
     <>
-      <HomeStyle className="pt-4" >
-        <div className="splash" id="splash">           
-          <img className="img2" src={image6} alt="Home"/>
+      <HomeStyle>
+        <div className="splash" id="splash">
+          <SiYourtraveldottv className="fade-in" size={130} style={{color: '#3a4ccd', margin: 'auto' }} />
         </div>
+
+        <div className="flex align-center justify-center">
+          <SiYourtraveldottv size={80} style={{color: '#3a4ccd', marginTop:'1rem' }}/>
+        </div>          
             <h1 >Turismo em Santa Catarina!</h1>
             <Link to={'/reserves'}>
               <ButtonStyle> Reservas & Parques</ButtonStyle>

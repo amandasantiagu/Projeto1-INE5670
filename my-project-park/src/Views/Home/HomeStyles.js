@@ -8,14 +8,14 @@ export const HomeStyle = styled.main`
   text-align: center;
   display: flex;
   flex-direction: column;
-
+  background: #b5d4f3;
   .splash{
     position: fixed;
     top:0;
     left: 0;
     width:100%;
     height:100vh;
-    background: black;
+    background: #b5d4f3;
     z-index: 200;
     color: white;
     line-height:90vh;
@@ -28,7 +28,7 @@ export const HomeStyle = styled.main`
     left: 0;
     width:100%;
     height:100vh;
-    background: black;
+    background: #b5d4f3;
     z-index: -10;
     color: white;
     line-height:90vh;
