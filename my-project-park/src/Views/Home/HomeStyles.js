@@ -61,23 +61,23 @@ export const HomeStyle = styled.main`
     height: auto;
 
     @media (max-width:768px){ 
-      width:auto;
+      width:100%;
       height: auto;
-      margin-left: 1rem;
-      margin-right: 1rem;
   }
   }
 `
 
 export const ButtonStyle = styled.button`
   width: 14rem;
-  height: 3rem;
+  height: 3.5rem;
   background: #68d9eb;
   color: black;
   border-radius: 4px;
   font-size: 1rem;
   border-width: 0px;
-  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 1px solid #89c14c;
   &:hover {
     background: #89c14c;
   }

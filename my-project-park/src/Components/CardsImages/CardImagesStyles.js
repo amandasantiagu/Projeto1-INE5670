@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const ContainerMovies = styled.div`
+export const ContainerAttractions = styled.div`
     display: grid;
     align-items: center;
     grid-template-columns: repeat( 3, minmax(180px, 1fr) );
@@ -36,3 +36,5 @@ export const Card = styled.article`
         
     }
 `;
+
+export const ItemsDiv = styled.div``;

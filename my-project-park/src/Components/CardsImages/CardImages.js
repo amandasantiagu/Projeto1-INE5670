@@ -1,29 +1,29 @@
 import React from 'react'
-import { Card, ContainerMovies } from './CardImagesStyles';
+import { Card, ContainerAttractions, ItemsDiv } from './CardImagesStyles';
 import { Link } from 'react-router-dom';
 
-function Cards() {
-
-    var attractions = require('../../DataBase/attractions.json'); //(with path)
-
+const Cards = () => {
+    var attractions = require('../../DataBase/attractions.json');
 
   return (
     <>
-        <ContainerMovies>
+        <ContainerAttractions>
             {attractions && attractions.map((attraction) => {
-                return(
-                <>
-                    <Card>
-                    <Link to='/reservesInfo' state={attraction} >
-                        <img src={attraction.imgs[0].url} alt="Logo"/>
-                    </Link>
-                        <p> {attraction.name}</p>
-                        <p> {attraction.address}</p>
-                    </Card> 
-                </>
+                return (
+                    <>
+                        <Card>
+                        <Link to='/reservesInfo' state={attraction} >
+                            <img src={attraction.imgs[0].url} alt="Logo"/>
+                        </Link>
+                            <ItemsDiv>
+                                <h4>{attraction.name}</h4>
+                                <p>{attraction.address}</p>
+                            </ItemsDiv>
+                        </Card> 
+                    </>
                 ) 
             })}
-        </ContainerMovies>
+        </ContainerAttractions>
     </>
   );
 }

@@ -4,7 +4,9 @@
     "phoneNumber": "(48) 3269-9551",
     "openingHours": "06:30–18:00",
     "website": "https://www.pmf.sc.gov.br/entidades/educambien/index.php?cms=visitacao+ao+parque+ecologico+do+corrego+grande&menu=0",
-    "price": "gratuito",
+    "price": "Gratuito",
+    "youtube":"https://www.youtube.com/watch?v=FbkYCAKTc_Y&ab_channel=PrefeituradeFlorian%C3%B3polis",
+    "maps": "https://www.google.com.br/maps/place/Parque+Municipal+do+C%C3%B3rrego+Grande/@-27.5927738,-48.5182774,15z/data=!4m5!3m4!1s0x9527390296e18a7b:0x80fc6e26e317d535!8m2!3d-27.5998141!4d-48.5113754",
     "imgs": [
         {
             "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lago_do_Horto_Florestal_do_C%C3%B3rrego_Grande.jpg"
@@ -20,7 +22,9 @@
     "phoneNumber": "(48) 3240-2029",
     "openingHours": "24horas",
     "website": "http://www.pmf.sc.gov.br/entidades/continente/index.php?cms=parque+de+coqueiros",
-    "price": "gratuito",
+    "price": "Gratuito",
+    "youtube":"https://www.youtube.com/watch?v=L6Pb4aPYo64&t=20s&ab_channel=Pequenafamilia",
+    "maps":"https://www.google.com.br/maps/place/Parque+de+Coqueiros/@-27.6015799,-48.5767304,17z/data=!3m1!4b1!4m5!3m4!1s0x95273794ec066941:0xf0fb1b82055db996!8m2!3d-27.6015799!4d-48.5745417" ,
     "imgs": [
         {
             "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/92/85/3b/parque-com-um-lindo-paisagismo.jpg"
@@ -31,18 +35,20 @@
     ]
   },
   {
-    "name": "Parque Ecológico Municipal",
-    "address": "R. Fernandes Dias, 71 - Centro, São Francisco do Sul - SC, 89240-000",
-    "phoneNumber": "(47) 3444-6682",
-    "openingHours": "08:00–17:00",
-    "website": "Nao possui",
-    "price": "gratuito",
+    "name": "Parque Natural Municipal do Morro da Cruz",
+    "address": "Av. do Antão, 607 - Centro, Florianópolis - SC, 88010-400",
+    "phoneNumber": "(48) 3228-6658",
+    "openingHours": "Livre",
+    "website": "https://floripacentro.com.br/parque-do-morro-da-cruz-mirantes-brinquedos-e-trilhas-na-mata-atlantica-a-10-minutos-do-centro/",
+    "price": "Gratuito",
+    "youtube":"https://www.youtube.com/watch?v=y1tfEWmLcig&t=19s&ab_channel=Fam%C3%ADliaAlencar",
+    "maps": "https://www.google.com/maps/place/Parque+Natural+Municipal+do+Morro+da+Cruz/@-27.5875988,-48.5387638,17z/data=!3m1!4b1!4m5!3m4!1s0x9527393b3d68f1d1:0xd0978a9321ec7052!8m2!3d-27.5875988!4d-48.5365751",
     "imgs": [
         {
-            "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/70/45/b8/parque-ecologico-municipal.jpg"
+            "url": "https://floripacentro.com.br/wp-content/uploads/2019/05/Morro-trilha.jpg"
         },
         {
-            "url": "https://www.saofranciscodosul.sc.gov.br/img/news/photo/392.jpg"
+            "url": "https://floripacentro.com.br/wp-content/uploads/2019/05/Morro-lago.jpg"
         }
     ]
   },
@@ -52,7 +58,9 @@
     "phoneNumber": "(47) 99170-1305",
     "openingHours": "08:00–18:00",
     "website": "https://parque-das-capivaras-em-meia-praia-itapema.negocio.site/?utm_source=gmb&utm_medium=referral",
-    "price": "gratuito",
+    "price": "Gratuito",
+    "youtube":"https://www.youtube.com/watch?v=Q-hNBzm6PjI&t=21s&ab_channel=DiegoDenega",
+    "maps": "https://www.google.com.br/maps/place/Municipal+Environmental+Reserve+Park+Capybara/@-27.142148,-48.5959195,16.58z/data=!4m5!3m4!1s0x94d8afb604860eeb:0xdc86a0e00e61699!8m2!3d-27.1419063!4d-48.592959",
     "imgs": [
         {
             "url": "https://www.itapema.sc.gov.br/wp-content/uploads/2018/01/26731646_1558953417474281_7023227039973612657_n-1.jpg"
@@ -68,7 +76,9 @@
     "phoneNumber": "(49) 3278-4994",
     "openingHours": "08:00–12:00, 14:00–18:00",
     "website": "https://www.icmbio.gov.br/parnasaojoaquim/guia-do-visitante.html",
-    "price": "gratuito",
+    "price": "Gratuito",
+    "youtube":"https://www.youtube.com/watch?v=8pvOvnwV_e4&t=72s&ab_channel=WikiParques",
+    "maps": "https://www.google.com.br/maps/place/S%C3%A3o+Joaquim+National+Park/@-28.2033612,-49.6648046,11z/data=!3m1!4b1!4m5!3m4!1s0x952051796ff094d7:0x8c83e007d7cf9da2!8m2!3d-28.1816033!4d-49.5145443",
     "imgs": [
         {
             "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Urubici_pedra_furada.jpg"
